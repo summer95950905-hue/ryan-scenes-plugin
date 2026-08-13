@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ryan scenes v2.0"
+  short_description: "通过交互定焦、照片过半和手撕纤维边缘重组真实场景的纸像海报工具"
+  default_prompt: "Use $ryan-scenes-v2-0 to inspect this photo, resolve narrative focus, photographic scope, and intervention level in one interactive panel or one text fallback, then create a source-faithful paper poster with recognizable photography covering at least half the canvas, one focal-derived high-chroma structural hue with red or blue as the fallback, simplified same-scene forms, and a visible hand-torn fibrous edge."

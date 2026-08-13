@@ -1,0 +1,20 @@
+{
+  "name": "ryan-scenes",
+  "interface": {
+    "displayName": "Ryan Scenes"
+  },
+  "plugins": [
+    {
+      "name": "ryan-scenes",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ryan-scenes"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Creative"
+    }
+  ]
+}

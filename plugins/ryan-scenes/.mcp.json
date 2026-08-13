@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "ryan-scenes-preferences": {
+      "command": "node",
+      "args": ["dist/server.mjs"],
+      "cwd": "."
+    }
+  }
+}

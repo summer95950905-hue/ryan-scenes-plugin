@@ -1,0 +1,29 @@
+{
+  "name": "ryan-scenes",
+  "version": "2.0.0",
+  "description": "Turn a supplied photo into a source-faithful Ryan Scenes poster after resolving three visual preferences in one interactive panel.",
+  "author": {
+    "name": "Ryan",
+    "url": "https://github.com/summer95950905-hue"
+  },
+  "homepage": "https://github.com/summer95950905-hue/ryan-scenes-plugin",
+  "repository": "https://github.com/summer95950905-hue/ryan-scenes-plugin",
+  "license": "MIT",
+  "keywords": ["photo", "poster", "zine", "mcp-apps", "image-generation"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Ryan Scenes",
+    "shortDescription": "用单面板定焦并生成真景过半的纸像海报",
+    "longDescription": "先读图生成三个具体叙事焦点，再一次选择摄影范围与改造力度；随后以至少 50% 的真实照片、同场插画、单一高饱和结构色和手撕纤维边缘完成海报。",
+    "developerName": "Ryan",
+    "category": "Creative",
+    "capabilities": ["Interactive", "Image generation"],
+    "websiteURL": "https://github.com/summer95950905-hue/ryan-scenes-plugin",
+    "defaultPrompt": [
+      "用 Ryan Scenes 处理这张照片。",
+      "先让我选择叙事焦点，再把照片做成纸像海报。"
+    ],
+    "brandColor": "#E1432F"
+  }
+}
