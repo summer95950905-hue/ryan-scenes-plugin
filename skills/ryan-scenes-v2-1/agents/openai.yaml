@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ryan scenes v2.1"
+  short_description: "纯文字定焦、照片过半、同场插画和手撕边缘的纸像海报工具"
+  default_prompt: "Use $ryan-scenes-v2-1 to inspect this photo, ask all unresolved preferences once in one compact text menu, then create a source-faithful paper poster."
