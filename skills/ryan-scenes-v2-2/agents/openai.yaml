@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ryan scenes v2.2"
+  short_description: "无需询问、自动定焦和自由照片占比的纸像海报生成工具"
+  default_prompt: "Use $ryan-scenes-v2-2 to inspect this photo and directly create a source-faithful paper poster without asking preference questions or enforcing a fixed photo-area ratio."
